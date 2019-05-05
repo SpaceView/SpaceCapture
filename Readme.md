@@ -63,16 +63,17 @@ Detailed introduction in Chinese:
 SpaceCapture is one of the quickest multifunctional scrolling screenshotting tools, with convenient and splendid image editor, to facilitate your office work.
 
 It provides additional video frame capture and image concatenation functions. Green, speedy, quick. and amazingly small, less than 2M. 
+(1)  If you use some other desktop snapshotting tools, general they will present you with a fake precaptured desktop image and let your make selection in that image. That explains why the movie or animation image stops when you start their capture function; but, SpaceCapture uses a totally different transparancy technique, so that everything you see is the real time desktop (NOT a fake precaptured image), and the animation images or movie will play on under the transparent capturing window, thus you can enjoy the real time snapshotting!!!
 
-(1) extremely fast and convenient, it provides 3 manners of capturing modes, you can select any one match your preference. e.g., you can get the area cut clean when it finishes the capture, that means you don't need to do any extra editing work such as cutting and resizing. 
+(2) extremely fast and convenient, it provides 3 manners of capturing modes, you can select any one match your preference. e.g., you can get the area cut clean when it finishes the capture, that means you don't need to do any extra editing work such as cutting and resizing. 
 
-(2) easy and convenient in video frame capture. You can capture any video frame, and attach the relevant captions just below or above the frame to make movie stories, as you can see from most of movie post blogs. This is a world of we-media, and you need to publish stories, right? 
+(3) easy and convenient in video frame capture. You can capture any video frame, and attach the relevant captions just below or above the frame to make movie stories, as you can see from most of movie post blogs. This is a world of we-media, and you need to publish stories, right? 
 
-(3) image concatenation functions. You can concatenate your images, e.g. multi-images from mobilephone screen shots, to make an elongated one, that is also what we do to make a long story. 
+(4) image concatenation functions. You can concatenate your images, e.g. multi-images from mobilephone screen shots, to make an elongated one, that is also what we do to make a long story. 
 
-(4) minimized resource consumption. We are doing our best to minimize the resource consumption. The software is amzingly samll, less than 2 disk Megabytes; green, you don't need to worry about installation and uninstallation. Just a simple click, that's all it takes. And it is written in pure C combined with windows native api's, no dependence on any other resources. clear and clean. 
+(5) minimized resource consumption. We are doing our best to minimize the resource consumption. The software is amzingly samll, less than 2 disk Megabytes; green, you don't need to worry about installation and uninstallation. Just a simple click, that's all it takes. And it is written in pure C combined with windows native api's, no dependence on any other resources. clear and clean. 
 
-(5) convenient image editor function. in addition to various shape drawing, you can have art text or general text as you like with easy. For elongated pictures, cutting and editing has never been so convenient as today.
+(6) convenient image editor function. in addition to various shape drawing, you can have art text or general text as you like with easy. For elongated pictures, cutting and editing has never been so convenient as today.
 
  
 
