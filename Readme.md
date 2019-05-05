@@ -62,7 +62,8 @@ Detailed introduction in Chinese:
 
 SpaceCapture is one of the quickest multifunctional scrolling screenshotting tools, with convenient and splendid image editor, to facilitate your office work.
 
-It provides additional video frame capture and image concatenation functions. Green, speedy, quick. and amazingly small, less than 2M. 
+It provides additional video frame capture and image concatenation functions. Green, speedy, quick. and amazingly small, less than 2M.
+
 (1)  If you use some other desktop snapshotting tools, general they will present you with a fake precaptured desktop image and let your make selection in that image. That explains why the movie or animation image stops when you start their capture function; but, SpaceCapture uses a totally different transparancy technique, so that everything you see is the real time desktop (NOT a fake precaptured image), and the animation images or movie will play on under the transparent capturing window, thus you can enjoy the real time snapshotting!!!
 
 (2) extremely fast and convenient, it provides 3 manners of capturing modes, you can select any one match your preference. e.g., you can get the area cut clean when it finishes the capture, that means you don't need to do any extra editing work such as cutting and resizing. 
