@@ -1,4 +1,4 @@
-# Collection of Software Tools in Windows Operation System by SpaceSoftwares.com
+# Collection of Software Tools in Windows by SpaceSoftwares.com
 
 
 
