@@ -112,10 +112,3 @@ It supports MP3, AAC and wave formats.
 Please star and email me if you need it, SpaceSoftwares@hotmail.com
 
 
-
-## SpaceRecorder (video recorder)
-
-Just a simple and easy screen/movie recorder, you can record web-net movie when watching, or record your desktop activities into mp4.
-
-
-
