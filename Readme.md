@@ -79,9 +79,6 @@ It provides additional video frame capture and image concatenation functions. Gr
 
 (6) convenient image editor function. in addition to various shape drawing, you can have art text or general text as you like with easy. For elongated pictures, cutting and editing has never been so convenient as today.
 
- 
-
-
 
 ## SpaceView
 
@@ -112,20 +109,13 @@ SpaceAudioRecorder is the fit for you, simple and easy, just one click.
 It can record microphone or speaker voice for your system.
 
 It supports MP3, AAC and wave formats.
+Please star and email me if you need it, SpaceSoftwares@hotmail.com
 
 
 
 ## SpaceRecorder (video recorder)
 
 Just a simple and easy screen/movie recorder, you can record web-net movie when watching, or record your desktop activities into mp4.
-
-
-
-## Unicode2ChineseConverter
-
-A simple tool for translate Unicode to Chinese, so simple, so easy!
-
-
 
 
 
