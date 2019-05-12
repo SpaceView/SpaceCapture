@@ -6,7 +6,9 @@ All tools are free, without any advertisements or info collect function. You eve
 Delete it at any moment if you don't like. 
 
 SpaceCapture1p0.7z	(Green, no installation required)
+
 SpaceView.zip	(Green)
+
 setupSpaceCapture.7z  (Installation required)
 
 ## SpaceCapture
