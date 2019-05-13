@@ -109,6 +109,6 @@ SpaceAudioRecorder is the fit for you, simple and easy, just one click.
 It can record microphone or speaker voice for your system.
 
 It supports MP3, AAC and wave formats.
-Please star and email me if you need it, SpaceSoftwares@hotmail.com
+Please email me if you need it, SpaceSoftwares@hotmail.com
 
 
