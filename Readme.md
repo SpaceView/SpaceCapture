@@ -5,7 +5,7 @@ These software tools are also available at SpaceSoftwares.com, but that website 
 All tools are free, without any advertisements or info collect function. You even don't need to install or uninstall. Extract to your disk then you can use it. 
 Delete it at any moment if you don't like. 
 
-SpaceCapture1p0.7z	(Green, no installation required)
+SpaceCaptureXpX.zip	(Green, no installation required)
 
 SpaceView.zip	(Green)
 
