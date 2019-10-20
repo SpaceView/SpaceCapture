@@ -1,5 +1,7 @@
 # Collection of Software Tools in Windows by SpaceSoftwares.com
 
+Updated 2019 Oct. 20th
+
 These software tools are also available at SpaceSoftwares.com, but that website cost me lots of money and I was unable to maintain it now! Thus I backuped some of the tools here!
 
 All tools are free, without any advertisements or info collect function. You even don't need to install or uninstall. Extract to your disk then you can use it. 
@@ -13,7 +15,6 @@ setupSpaceCapture.7z  (Installation required)
 
 ## SpaceCapture
 
-Current version 1.09, updated in 2019.Oct.20
 
 Are you still using those slug tools ? It is time for a change.
 
