@@ -13,6 +13,8 @@ setupSpaceCapture.7z  (Installation required)
 
 ## SpaceCapture
 
+Current version 1.09, updated in 2019.Oct.20
+
 Are you still using those slug tools ? It is time for a change.
 
 SpaceCapture provides the fastest Scrolling Screen snapshotting capability for your office work.
