@@ -100,18 +100,3 @@ If you are a designer, e.g, if you have lots of elongated pictures, designs, or 
 Just try it, as simple as you can feel and see.
 
 
-
-## SpaceAudioRecorder
-
-![](image/musicStaff474x210-300x133.png)
-
-Sometimes you may need to record a small section of good music from the website, since it is so beautiful and rare.
-
-SpaceAudioRecorder is the fit for you, simple and easy, just one click.
-
-It can record microphone or speaker voice for your system.
-
-It supports MP3, AAC and wave formats.
-Please email me if you need it, SpaceSoftwares@hotmail.com
-
-
