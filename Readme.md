@@ -1,9 +1,32 @@
+SpaceCapture v1.10=-202107发布，永久免费的高速滚屏截图软件 
+SpaceCapture自发布以来，收到很多朋友的来信反馈，我们正一步步改进，希望做一款最好用的滚屏截图软件，也希望大家多多支持丝贝视像的其他产品。
+v1.10的主要更新包括：
+-->修复了一系列界面及截图BUG。增强了在浏览器页面变化的情况下，截图的应变能力
+-->窗口截图的阴影部分修剪更加合理（请在设置->系统->窗口对象捕捉->去除阴影->输入8）
+请路径中不要使用中文、空格或其他无效字符。
+
+异常说明：
+如果出现图片显示异常，通常是因为系统不完整。比如有些GHOST版本的windows会对gdiplus进行修剪，或者系统清理过程中受损。
+我们正在努力清除gdiplus，目前还没有100%完成这个任务。
+
+使用中碰到的任何问题请致信：tansheng@spacesoftwares.com，我们会在下一版努力改进。
+
+丝贝视像目前的主要产品包括：工业相机 和 运动控制卡，专为视觉图像处理自动化，人工智能自动化服务。
+购买丝贝视像的产品，终身享受丝贝的服务，随时有资深工程师为您提供开发指导，以解决您在图像视觉及自动化领域所碰到的各种难题！
+
+感谢大家的支持
+
+-------------------------------------------------------------------------------------------------
+Below English introduction!!!
+
 Space Capture version 1.10-20210707 Release Notice:
 --> Fixed some general bugs in scrolling.
---> the shadow removal updated, the top has no shadow, fixed. You can set this in SystemSetting--Window Object Capture--check remove shadow part, in the edit box, write 8. (windows has 8 pixels shadow part for left, bottom, and right, 1 pixel shadow on top), now you can get a clean windows captured without any bother
+--> the shadow removal updated, the top has no shadow, fixed. You can set this in SystemSetting--Window Object Capture--check remove shadow part, in the edit box, write 8. (windows has 8 pixels shadow part for left, bottom, and right, 1 pixel shadow on top), now you can get a clean windows captured without any bother.
 Please go the the RELEASE and get it!
 
-I will not bother to make a installation anymore, just unzip it and click to use.
+Please use the langurage package and place it within the executable folder, if you want to use Chinese versions!!!
+
+We will not bother to make a installation anymore, just unzip it and click to use.
 
 NOTE: NO SOURCE CODE, JUST FREE APPLICATION IN WINDOWS PLATFORM!
 
