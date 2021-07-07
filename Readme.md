@@ -1,8 +1,13 @@
-SpaceCapture v1.10=-202107发布，永久免费的高速滚屏截图软件 
+SpaceCapture v1.10=-202107发布，永久免费的高速滚屏截图软件
+
 SpaceCapture自发布以来，收到很多朋友的来信反馈，我们正一步步改进，希望做一款最好用的滚屏截图软件，也希望大家多多支持丝贝视像的其他产品。
+
 v1.10的主要更新包括：
+
 -->修复了一系列界面及截图BUG。增强了在浏览器页面变化的情况下，截图的应变能力
+
 -->窗口截图的阴影部分修剪更加合理（请在设置->系统->窗口对象捕捉->去除阴影->输入8）
+
 请路径中不要使用中文、空格或其他无效字符。
 
 异常说明：
@@ -20,8 +25,11 @@ v1.10的主要更新包括：
 Below English introduction!!!
 
 Space Capture version 1.10-20210707 Release Notice:
+
 --> Fixed some general bugs in scrolling.
+
 --> the shadow removal updated, the top has no shadow, fixed. You can set this in SystemSetting--Window Object Capture--check remove shadow part, in the edit box, write 8. (windows has 8 pixels shadow part for left, bottom, and right, 1 pixel shadow on top), now you can get a clean windows captured without any bother.
+
 Please go the the RELEASE and get it!
 
 Please use the langurage package and place it within the executable folder, if you want to use Chinese versions!!!
