@@ -1,7 +1,14 @@
+Space Capture version 1.10-20210707 Release Notice:
+--> Fixed some general bugs in scrolling.
+--> the shadow removal updated, the top has no shadow, fixed. You can set this in SystemSetting--Window Object Capture--check remove shadow part, in the edit box, write 8. (windows has 8 pixels shadow part for left, bottom, and right, 1 pixel shadow on top), now you can get a clean windows captured without any bother
+Please go the the release version and get it!
+
+I will not bother to make a installation anymore, just unzip it and click to use.
+
+NOTE: NO SOURCE CODE, JUST FREE APPLICATION IN WINDOWS PLATFORM!
+
+
 # Collection of Software Tools in Windows by SpaceSoftwares.com
-
-Updated 2019 Oct. 20th
-
 These software tools are also available at SpaceSoftwares.com, but that website cost me lots of money and I was unable to maintain it now! Thus I backuped some of the tools here!
 
 All tools are free, without any advertisements or info collect function. You even don't need to install or uninstall. Extract to your disk then you can use it. 
