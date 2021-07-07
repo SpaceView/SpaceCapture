@@ -1,7 +1,7 @@
 Space Capture version 1.10-20210707 Release Notice:
 --> Fixed some general bugs in scrolling.
 --> the shadow removal updated, the top has no shadow, fixed. You can set this in SystemSetting--Window Object Capture--check remove shadow part, in the edit box, write 8. (windows has 8 pixels shadow part for left, bottom, and right, 1 pixel shadow on top), now you can get a clean windows captured without any bother
-Please go the the release version and get it!
+Please go the the RELEASE and get it!
 
 I will not bother to make a installation anymore, just unzip it and click to use.
 
